@@ -1,0 +1,46 @@
+html,
+
+body{
+    background: url("./Free-White-Wallpaper.jpg") fixed;
+}
+
+div.lineup{
+    display: flex;
+
+}
+
+div.topbar {
+    text-align: center;
+}
+
+div.sidebar {
+   
+    border: 15px solid rgba(100, 100, 100, .3);
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+
+div.rightbar {
+    border: 15px solid rgba(100, 100, 100, .3);
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+
+div.bottombar{
+    border: 15px solid rgba(100, 100, 100, .3);
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+}
+
+h2{
+    font-size: 24px;
+    font-style: normal;
+}
+
+h4{
+    font-size: 30px;
+    font-style: oblique;
+}
